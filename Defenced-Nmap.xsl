@@ -16,7 +16,7 @@
           .target:before {
             content: "";
             display: block;
-            height: 50px;
+            height: 500px;
             margin: -20px 0 0;
           }
           @media only screen and (min-width:1900px) {
@@ -25,10 +25,10 @@
               }
           }
           .footer {
-            margin-top:60px;
-            padding-top:60px;
+            margin-top:10px;
+            padding-top:10px;
             width: 100%;
-            height: 180px;
+            height: 40px;
             background-color: #000000;
           }
           .clickable {
