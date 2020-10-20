@@ -292,7 +292,7 @@
         <footer class="footer">
           <div class="container">
             <p class="text-muted">
-              &#169; Defenced B.V. 
+              &#xA9; Defenced B.V.
             </p>
           </div>
         </footer>
