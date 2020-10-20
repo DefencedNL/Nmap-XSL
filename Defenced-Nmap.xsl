@@ -16,7 +16,7 @@
           .target:before {
             content: "";
             display: block;
-            height: 500px;
+            height: 50px;
             margin: -20px 0 0;
           }
           @media only screen and (min-width:1900px) {
@@ -34,6 +34,9 @@
           .clickable {
             cursor: pointer;
           }
+	  .panel-heading {
+	    background-color: #000000;
+	  }
           .panel-heading > h3:before {
             font-family: 'Glyphicons Halflings';
             content: "\e114"; /* glyphicon-chevron-down */
